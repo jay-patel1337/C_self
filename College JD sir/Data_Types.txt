@@ -1,0 +1,6 @@
+Data types - 
+1. Int
+2. Float
+3. Char
+4. Long
+5. Double
